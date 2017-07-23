@@ -1,0 +1,14 @@
+{
+  "name": "request-header",
+  "version": "1.0.0",
+  "description": "Request header parser microservice for freeCodeCamp project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
